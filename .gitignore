@@ -1,0 +1,1 @@
+# Standard git ignores\nnode_modules/\nlib/\n.out/\ncache/\nbuild/\ndist/
